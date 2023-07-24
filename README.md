@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-      <img src=".github/assets/badge.png" width="200" />
+      <img src="https://user-images.githubusercontent.com/45159366/101415619-1b103500-389d-11eb-83f8-74f87abf5eaf.png" />
   </a>
 
   <!-- project name -->
