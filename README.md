@@ -86,7 +86,7 @@ $ npm install
 🔧 2. Change Directory
 
 ```bash
-$ cd santander-client
+$ cd angular-santander-home-clone-main
 ```
 
 🔧 3. Run the script
